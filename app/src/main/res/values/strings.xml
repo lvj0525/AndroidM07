@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Handler Thread</string>
+    <string name="result">This is a download result</string>
+    <string name="download">Download</string>
+    <string name="stop">Stop</string>
+    <string name="restart">Restart</string>
+</resources>
